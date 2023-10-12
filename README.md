@@ -1,4 +1,5 @@
 # SolentBoats_Database
+Coursework for Year 1 in Database Systems Development for BSc (Hons) Software Engineering Degree By UP2122177
 
 # Brief
 You have been asked to create a database for a boat repair and servicing company, Solent Boats. They currently
