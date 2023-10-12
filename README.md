@@ -44,5 +44,6 @@ SB need a database that will store, as a minimum, the following data.
 * Staff involved in each service
 
 # Database ERD
-![image](https://github.com/JamesWicks01/SolentBoats_Database/assets/115103781/31ec5dfe-6051-42b1-a440-85a392c7d825)
+![image](https://github.com/JamesWicks01/SolentBoats_Database/assets/115103781/f8d0ea0d-4076-4cc3-a212-2dfb58b44b5c)
+
 
