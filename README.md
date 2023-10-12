@@ -17,12 +17,12 @@ should allow this situation.
 The roles that you need to create are listed below:
 
 **ROLE**
-MANAGER
-GLASS FIBRE SPECIALIST
-ENGINE TECHNICIAN
-GENERAL
-ELECTRICIAN
-TECHNICIAN
+* MANAGER
+* GLASS FIBRE SPECIALIST
+* ENGINE TECHNICIAN
+* GENERAL
+* ELECTRICIAN
+* TECHNICIAN
 
 As stated elsewhere, some boatyards have less staff and some have more. It could be that one
 yard has a person who has two or more of these roles. Remember that every yard has a manager. This is not
@@ -36,8 +36,8 @@ have given the minimum requirements that are needed for their business to run pr
 
 # Requirements
 SB need a database that will store, as a minimum, the following data.
-  • Staff (Personal and work details such as work email addresses and roles)
-  • Customers (Personal details such as home address and contact details)
-  • Boat details (Such as name and when built. We do not need information such as size but we do need fuel type.)
-  • Servicing completed and pre-booked
-  • Staff involved in each service
+* Staff (Personal and work details such as work email addresses and roles)
+* Customers (Personal details such as home address and contact details)
+* Boat details (Such as name and when built. We do not need information such as size but we do need fuel type.)
+* Servicing completed and pre-booked
+* Staff involved in each service
