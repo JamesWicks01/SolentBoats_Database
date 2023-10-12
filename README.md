@@ -41,3 +41,7 @@ SB need a database that will store, as a minimum, the following data.
 * Boat details (Such as name and when built. We do not need information such as size but we do need fuel type.)
 * Servicing completed and pre-booked
 * Staff involved in each service
+
+# Database ERD
+![image](https://github.com/JamesWicks01/SolentBoats_Database/assets/115103781/31ec5dfe-6051-42b1-a440-85a392c7d825)
+
